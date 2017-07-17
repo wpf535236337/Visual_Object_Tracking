@@ -294,7 +294,11 @@
   [[project](http://www.robots.ox.ac.uk/~joao/circulant/)]
 
 ## Others
-
+* **HCFT:** Chao Ma, Jia-Bin Huang, Xiaokang Yang, Ming-Hsuan Yang. 
+  "Robust Visual Tracking via Hierarchical Convolutional Features." arXiv (2017). 
+  [[paper](https://arxiv.org/pdf/1707.03816.pdf)]
+  [[project](https://sites.google.com/site/chaoma99/hcft-tracking)]
+  
 * **HART:** Adam R. Kosiorek, Alex Bewley, Ingmar Posner. 
   "Hierarchical Attentive Recurrent Tracking." arXiv (2017). 
   [[paper](https://arxiv.org/pdf/1706.09262.pdf)]
