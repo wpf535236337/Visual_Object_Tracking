@@ -140,7 +140,7 @@
   "Deep Relative Tracking." TIP (2017). 
   [[paper](http://ieeexplore.ieee.org/abstract/document/7828108/)]
   
-  * **LCT_V12:** Chao Ma, Jia-Bin Huang, Xiaokang Yang, Ming-Hsuan Yang. 
+* **LCT_V12:** Chao Ma, Jia-Bin Huang, Xiaokang Yang, Ming-Hsuan Yang. 
   "Adaptive Correlation Filters with Long-Term and Short-Term Memory for Object Tracking"
   [[paper](https://drive.google.com/file/d/0B8-i_hZvGyZNb2I2aVVxbmpWZmM/view?usp=drive_web)]
   [[project](https://sites.google.com/site/chaoma99/cf-lstm)]
