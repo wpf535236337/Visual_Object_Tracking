@@ -300,6 +300,10 @@
   [[project](http://www.robots.ox.ac.uk/~joao/circulant/)]
 
 ## Others
+* **SART:** Chong Sun, Huchuan Lu, Ming-Hsuan Yang. 
+  "Learning Spatial-Aware Regressions for Visual Tracking." arXiv (2017). 
+  [[paper](https://arxiv.org/pdf/1706.07457v1.pdf)]
+
 * **HCFT:** Chao Ma, Jia-Bin Huang, Xiaokang Yang, Ming-Hsuan Yang. 
   "Robust Visual Tracking via Hierarchical Convolutional Features." arXiv (2017). 
   [[paper](https://arxiv.org/pdf/1707.03816.pdf)]
@@ -503,3 +507,13 @@ Benchmark
   "Object Tracking Benchmark." TPAMI (2015).
   [[paper](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7001050&tag=1)]
   [[project](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)]
+
+Survey
+----------
+* Zhe Chen, Zhibin Hong, Dacheng Tao. 
+  "An Experimental Survey on Correlation Filter-based Tracking." arXiv (2015). 
+  [[paper](https://arxiv.org/pdf/1509.05520.pdf)]
+* Roman Pflugfelder. 
+  "Siamese Learning Visual Tracking: A Survey." arXiv (2017).
+  [[paper](https://arxiv.org/pdf/1707.00569v1.pdf)]
+ 
