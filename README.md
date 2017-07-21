@@ -299,7 +299,11 @@
   [[paper](http://www.robots.ox.ac.uk/~joao/publications/henriques_tpami2015.pdf)]
   [[project](http://www.robots.ox.ac.uk/~joao/circulant/)]
 
-## Others
+## Recently
+* **SFT:** Zhen Cui, Youyi Cai, Wenming Zheng. 
+  "Spectral Filter Tracking." arXiv (2017). 
+  [[paper](https://arxiv.org/pdf/1707.05553.pdf)]
+
 * **SART:** Chong Sun, Huchuan Lu, Ming-Hsuan Yang. 
   "Learning Spatial-Aware Regressions for Visual Tracking." arXiv (2017). 
   [[paper](https://arxiv.org/pdf/1706.07457v1.pdf)]
